@@ -15,9 +15,7 @@
       "status": "approved",
       "max_devices": 60,
       "expiry_date": "2026-08-27",
-      "hwid": [
-        "23f7fae27623aaf1"
-      ]
+      "hwid": []
     },
     "DP-VIP-101": {
       "status": "approved",
